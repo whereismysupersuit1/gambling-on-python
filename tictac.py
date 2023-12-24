@@ -14,4 +14,10 @@ class color:
     UNDERLINE = '\033[4m'
     END = '\033[0m'
 system.os('clear') 
+print(color.CYAN + "Tic Tac Toe!" + color.END) 
+time.sleep(0.4) 
+print(" ") 
+print(color.YELLOW + "(S)ingle Player" + color.END)
+print(color.BLUE + "Two player
+
 
