@@ -20,7 +20,7 @@ print(" ")
 print(color.YELLOW + "(S)ingle Player" + color.END)
 print(color.BLUE + "(T)wo player" color.END")
 gameMode = input("Enter GAMEMODE: (S/T) " 
-if gameMode = s or if gameMode = S:
+if gameMode = s or gameMode = S:
 
 
 
