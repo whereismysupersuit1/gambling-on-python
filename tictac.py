@@ -13,6 +13,8 @@ class color:
     BOLD = '\033[1m'
     UNDERLINE = '\033[4m'
     END = '\033[0m'
+
+#Main menu
 system.os('clear') 
 print(color.CYAN + "Tic Tac Toe!" + color.END) 
 time.sleep(0.4) 
@@ -20,7 +22,13 @@ print(" ")
 print(color.YELLOW + "(S)ingle Player" + color.END)
 print(color.BLUE + "(T)wo player" color.END")
 gameMode = input("Enter GAMEMODE: (S/T) " 
+
+#Single player 
 if gameMode = s or gameMode = S:
+    os.system('clear') 
 
+#Two player 
+else:
+    os.system('clear')
 
-
+    
