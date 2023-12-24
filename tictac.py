@@ -18,6 +18,9 @@ print(color.CYAN + "Tic Tac Toe!" + color.END)
 time.sleep(0.4) 
 print(" ") 
 print(color.YELLOW + "(S)ingle Player" + color.END)
-print(color.BLUE + "Two player
+print(color.BLUE + "(T)wo player" color.END")
+gameMode = input("Enter GAMEMODE: (S/T) " 
+if gameMode = s or if gameMode = S:
+
 
 
